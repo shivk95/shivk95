@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shiv Kapoor
 - 👀 I’m interested in learning Power Bi and Conversational AI
-- 📫 You can reach me on shivkapoor22@gmail.com
+- 📫 You can reach me at shivkapoor22@gmail.com
 
 <!---
 shivk95/shivk95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
